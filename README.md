@@ -24,6 +24,7 @@ Internationalised error messages for [Ajv](https://github.com/epoberezkin/ajv) -
 |🇮🇹 it|Italian  |[jasoniangreen](https://github.com/jasoniangreen)<br>[lucacorti](https://github.com/lucacorti)|✓<br>&nbsp;|<br>✓|<br>✓|
 |🇯🇵 ja|Japanese |[gilgongo](https://github.com/gilgongo)|✓|-|-|
 |🇰🇷 ko|Korean |[MinByeongDon](https://github.com/MinByeongDon)|✓|✓|✓|
+|🇱🇹 lt|Lithuanian|[zygos](https://github.com/zygos)|✓|✓|✓|
 |🇳🇴 nb|Norwegian bokmål|[mtramm](https://github.com/mtramm)|✓|✓|-|
 |🇳🇱 nl|Dutch    |[pimlie](https://github.com/pimlie)|✓|✓|✓|
 |🇵🇱 pl|Polish   |[danielzurawski](https://github.com/danielzurawski)|✓|-|-|
@@ -138,6 +139,7 @@ Functions that localize error messages are generated using doT templates in [mes
 [![MinByeongDon](https://avatars2.githubusercontent.com/u/6141807?s=36&v=4)](https://github.com/MinByeongDon "MinByeongDon")
 [![gflohr](https://avatars0.githubusercontent.com/u/7126580?s=36&v=4)](https://github.com/gflohr "gflohr")
 [![ekoeryanto](https://avatars2.githubusercontent.com/u/36023898?s=36&v=4)](https://github.com/ekoeryanto "ekoeryanto")
+[![zygos](https://avatars1.githubusercontent.com/u/5245419?s=36&v=4)](https://github.com/zygos "zygos")
 
 
 ## License
